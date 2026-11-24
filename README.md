@@ -18,3 +18,5 @@
   <img align="center" alt="MySQL" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10">
   <img align="center" alt="SQLite" height="45" width="45" src="https://agents-download.skywork.ai/image/rt/3bf5921049cfca93f8aa908c3f22a136.jpg">
 </div>
+
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
