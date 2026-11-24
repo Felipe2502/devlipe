@@ -14,4 +14,5 @@
   <img align="center" alt="Python" height="45" width="45" src="https://miro.medium.com/0*uvbCyGqFBOPkgfoC">
   <img align="center" alt="PHP" height="45" width="45" src="https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-768x534.webp">
   <img align="center" alt="MySQL" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10">
+  <img align="center" alt="SQLite" height="45" width="45" src="https://agents-download.skywork.ai/image/rt/3bf5921049cfca93f8aa908c3f22a136.jpg">
 </div>
