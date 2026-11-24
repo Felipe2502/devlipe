@@ -8,10 +8,10 @@
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
-  <img align="center" alt="HTML" height="40" width="40" src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia7768/m-linguagem-html-cursos-cpt.jpg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7P9NiruM4qUZmpH-Hnyl31gDc2mts429qxU2IkTBWJg&s=10">
   <img align="center" alt="CSS" height="40" width="40" src="https://w7.pngwing.com/pngs/390/794/png-transparent-css3-original-wordmark-logo-icon.png">
-  <img align="center" alt="JS" height="40" width="40" src="https://githubusercontent.com">
-  <img align="center" alt="Python" height="45" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="PHP" height="45" width="45" src="https://githubusercontent.com">
-  <img align="center" alt="MySQL" height="45" width="45" src="https://githubusercontent.com">
+  <img align="center" alt="JS" height="40" width="40" src="https://www.codewithharry.com/img/notes/js.webp">
+  <img align="center" alt="Python" height="45" width="45" src="https://miro.medium.com/0*uvbCyGqFBOPkgfoC">
+  <img align="center" alt="PHP" height="45" width="45" src="https://bmasolucoesdigitais.com.br/blog_capa/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg">
+  <img align="center" alt="MySQL" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10">
 </div>
