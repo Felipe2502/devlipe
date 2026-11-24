@@ -14,4 +14,7 @@
   <img align="center" alt="Python" height="45" width="45" src="https://githubusercontent.com">
   <img align="center" alt="PHP" height="45" width="45" src="https://githubusercontent.com">
   <img align="center" alt="MySQL" height="45" width="45" src="https://githubusercontent.com">
+  <img align="center" alt="Python" height="45" width="45" src="https://jsdelivr.net" />
+  <img align="center" alt="PHP" height="45" width="45" src="https://jsdelivr.net" />
+  <img align="center" alt="MySQL" height="45" width="45" src="https://jsdelivr.net" />
 </div>
