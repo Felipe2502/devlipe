@@ -12,6 +12,6 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://w7.pngwing.com/pngs/390/794/png-transparent-css3-original-wordmark-logo-icon.png">
   <img align="center" alt="JS" height="40" width="40" src="https://www.codewithharry.com/img/notes/js.webp">
   <img align="center" alt="Python" height="45" width="45" src="https://miro.medium.com/0*uvbCyGqFBOPkgfoC">
-  <img align="center" alt="PHP" height="45" width="45" src="https://bmasolucoesdigitais.com.br/blog_capa/22d200f8670dbdb3e253a90eee5098477c95c23d.jpg">
+  <img align="center" alt="PHP" height="45" width="45" src="https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-768x534.webp">
   <img align="center" alt="MySQL" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVPQaKN0OpWiL4ISrdz009ZCntJ6UtUuAD6joLmGiUsw&s=10">
 </div>
