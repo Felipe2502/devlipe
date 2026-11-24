@@ -9,7 +9,7 @@
 
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="40" width="40" src="https://cptstatic.s3.amazonaws.com/imagens/enviadas/materias/materia7768/m-linguagem-html-cursos-cpt.jpg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="CSS" height="40" width="40" src="https://w7.pngwing.com/pngs/390/794/png-transparent-css3-original-wordmark-logo-icon.png">
   <img align="center" alt="JS" height="40" width="40" src="https://githubusercontent.com">
   <img align="center" alt="Python" height="45" width="45" src="https://githubusercontent.com">
   <img align="center" alt="PHP" height="45" width="45" src="https://githubusercontent.com">
