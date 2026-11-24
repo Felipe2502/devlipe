@@ -7,8 +7,11 @@
 
 ## Tecnologias que eu uso no meu dia
 
-https://www.w3.org/html/logo/
-https://github.com/CSS-Next/logo.css/blob/bacc20878227204b283c68a6b935f8279e06b0cd/css.svg
-https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg
-https://www.python.org/community/logos/
-
+<div style="display: inline_block">
+  <img align="center" alt="HTML" height="40" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="CSS" height="40" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="JS" height="40" width="40" src="https://githubusercontent.com">
+  <img align="center" alt="Python" height="45" width="45" src="https://githubusercontent.com">
+  <img align="center" alt="PHP" height="45" width="45" src="https://githubusercontent.com">
+  <img align="center" alt="MySQL" height="45" width="45" src="https://githubusercontent.com">
+</div>
