@@ -19,4 +19,5 @@
   <img align="center" alt="SQLite" height="45" width="45" src="https://agents-download.skywork.ai/image/rt/3bf5921049cfca93f8aa908c3f22a136.jpg">
 </div>
 
+
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
