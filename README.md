@@ -4,7 +4,6 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/p/Luiz-Felipe-Suzart-Neto-61596427319521/)
 
-![Fraga GitHub stats](https://github-readme-status.vercel.app/api?username=devfraga&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
